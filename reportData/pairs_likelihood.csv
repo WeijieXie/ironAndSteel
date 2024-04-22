@@ -1,0 +1,352 @@
+Country1,Country2,Likelihood
+China (mainland),China (mainland),0.0
+China (mainland),South Africa,0.028026223924989664
+China (mainland),Germany,0.3939085911169448
+China (mainland),Ukraine,0.8502489475699679
+China (mainland),Iran,1.3612188174083524
+China (mainland),Mexico,0.3969644808315533
+China (mainland),India,0.06601600107947994
+China (mainland),Austria,1.088175268939749
+China (mainland),France,0.0629360735194044
+China (mainland),Netherlands,0.23805750160368366
+China (mainland),South Korea,0.27727171570038783
+China (mainland),Taiwan,0.11777015909050867
+China (mainland),Canada,0.8635300800099093
+China (mainland),Russia,0.9644687290785905
+China (mainland),Brazil,0.6528354960474606
+China (mainland),Belgium,0.45280758067554233
+China (mainland),United Kingdom,0.3088241123886895
+China (mainland),Italy,0.5781881091944576
+China (mainland),Turkey,0.0412461264399104
+China (mainland),Japan,0.17532820334323027
+China (mainland),United States,0.7413354025478973
+China (mainland),Malaysia,0.07170660500433419
+China (mainland),Slovakia,0.3402748380293013
+China (mainland),Vietnam,0.15899903812011754
+China (mainland),Indonesia,0.8108298743772167
+China (mainland),Oman,inf
+South Africa,South Africa,0.0
+South Africa,Germany,0.3377338371521026
+South Africa,Ukraine,1.0034350158567398
+South Africa,Iran,1.5474659535578739
+South Africa,Mexico,0.48355742546894626
+South Africa,India,0.08650814091587906
+South Africa,Austria,0.9818546647418146
+South Africa,France,0.07022786197820828
+South Africa,Netherlands,0.2173111651937466
+South Africa,South Korea,0.2978465194539308
+South Africa,Taiwan,0.13471839371661623
+South Africa,Canada,0.9814921152137042
+South Africa,Russia,1.1260112209205209
+South Africa,Brazil,0.7217302947419558
+South Africa,Belgium,0.3573904699806461
+South Africa,United Kingdom,0.29068111999118257
+South Africa,Italy,0.4515216163958036
+South Africa,Turkey,0.0883820925313185
+South Africa,Japan,0.20256146407427614
+South Africa,United States,0.5834537479617349
+South Africa,Malaysia,0.06255601748544391
+South Africa,Slovakia,0.4067624716885681
+South Africa,Vietnam,0.25564372219675674
+South Africa,Indonesia,0.7184593856303255
+South Africa,Oman,inf
+Germany,Germany,0.0
+Germany,Ukraine,1.6800452770674976
+Germany,Iran,2.488163811856419
+Germany,Mexico,0.7894041714320112
+Germany,India,0.3949364507186867
+Germany,Austria,0.08637179318868844
+Germany,France,0.17438415964345697
+Germany,Netherlands,0.0887450751173311
+Germany,South Korea,0.2139003664533375
+Germany,Taiwan,0.18539868900833376
+Germany,Canada,1.1656674274925864
+Germany,Russia,1.9457921175021782
+Germany,Brazil,1.4604076003092077
+Germany,Belgium,0.030184166615187226
+Germany,United Kingdom,0.627893875702206
+Germany,Italy,0.09889349075010045
+Germany,Turkey,0.34565960100156395
+Germany,Japan,0.43954954858184647
+Germany,United States,0.37068505775691674
+Germany,Malaysia,0.33743367463447815
+Germany,Slovakia,0.23640283571144816
+Germany,Vietnam,0.604156391664538
+Germany,Indonesia,0.8510519588482367
+Germany,Oman,inf
+Ukraine,Ukraine,0.0
+Ukraine,Iran,0.10375802995113266
+Ukraine,Mexico,0.739911290890013
+Ukraine,India,0.35144822693717326
+Ukraine,Austria,5.03540070337357
+Ukraine,France,1.035885757719472
+Ukraine,Netherlands,1.7901411777146192
+Ukraine,South Korea,1.6448842261491832
+Ukraine,Taiwan,1.1779372357586686
+Ukraine,Canada,1.6549359439135145
+Ukraine,Russia,0.032448983721391184
+Ukraine,Brazil,0.032376412639485215
+Ukraine,Belgium,2.371282870834242
+Ukraine,United Kingdom,0.8966285551999126
+Ukraine,Italy,2.6346677956141535
+Ukraine,Turkey,0.4465208452326044
+Ukraine,Japan,0.7645684262429137
+Ukraine,United States,2.0624194946875476
+Ukraine,Malaysia,0.42235648815544063
+Ukraine,Slovakia,1.362110515234844
+Ukraine,Vietnam,0.30072458183836737
+Ukraine,Indonesia,1.9521175135433997
+Ukraine,Oman,inf
+Iran,Iran,0.0
+Iran,Mexico,1.3718437805667814
+Iran,India,0.6488199582777604
+Iran,Austria,7.285679365320988
+Iran,France,1.6770611227531997
+Iran,Netherlands,2.6395786874311007
+Iran,South Korea,2.551550649879567
+Iran,Taiwan,1.8644704100764828
+Iran,Canada,2.2136519881545573
+Iran,Russia,0.029184455008686522
+Iran,Brazil,0.12909240499354688
+Iran,Belgium,3.166810864332701
+Iran,United Kingdom,1.2929779640863521
+Iran,Italy,3.3698925413659246
+Iran,Turkey,0.8314387975147199
+Iran,Japan,1.281555048143904
+Iran,United States,2.4207902351736523
+Iran,Malaysia,0.6652423706017444
+Iran,Slovakia,1.9099372810742374
+Iran,Vietnam,0.5862378857291314
+Iran,Indonesia,2.299964470673818
+Iran,Oman,inf
+Mexico,Mexico,0.0
+Mexico,India,0.22623983041790663
+Mexico,Austria,1.1570324880942224
+Mexico,France,0.22018510958797324
+Mexico,Netherlands,0.37146584457626924
+Mexico,South Korea,0.21211351933337796
+Mexico,Taiwan,0.17436350403722675
+Mexico,Canada,0.5168975142884604
+Mexico,Russia,0.6678773089795055
+Mexico,Brazil,0.4135705107768408
+Mexico,Belgium,0.8710299813402732
+Mexico,United Kingdom,0.6409870052398556
+Mexico,Italy,1.2030239939223122
+Mexico,Turkey,0.2011260209815465
+Mexico,Japan,0.07047960039372274
+Mexico,United States,1.3813488043428472
+Mexico,Malaysia,0.3700283332625572
+Mexico,Slovakia,0.43832009810415934
+Mexico,Vietnam,0.12329627414747879
+Mexico,Indonesia,1.5919068939004317
+Mexico,Oman,inf
+India,India,0.0
+India,Austria,1.85008777728061
+India,France,0.17869545853727592
+India,Netherlands,0.48587397272618743
+India,South Korea,0.4538304383958814
+India,Taiwan,0.24650722224471233
+India,Canada,0.9779475430737362
+India,Russia,0.6408312617607969
+India,Brazil,0.35180132947585313
+India,Belgium,0.7702049681566093
+India,United Kingdom,0.37138110997031504
+India,Italy,0.9566780907863142
+India,Turkey,0.028201132811535516
+India,Japan,0.16340420960111052
+India,United States,0.8837822922317969
+India,Malaysia,0.03425837811748951
+India,Slovakia,0.4324323941422675
+India,Vietnam,0.10236291055734308
+India,Indonesia,1.0496462408207272
+India,Oman,inf
+Austria,Austria,0.0
+Austria,France,0.2542919747110394
+Austria,Netherlands,0.18286393428179729
+Austria,South Korea,0.32226347204973305
+Austria,Taiwan,0.2888528645621311
+Austria,Canada,1.4098120844365098
+Austria,Russia,2.190654321430461
+Austria,Brazil,1.5325541253234827
+Austria,Belgium,0.024210511030157846
+Austria,United Kingdom,0.6886159556244453
+Austria,Italy,0.07346060675395541
+Austria,Turkey,0.5088059880592938
+Austria,Japan,0.5038398485382338
+Austria,United States,0.37373962264162996
+Austria,Malaysia,0.43003536443182555
+Austria,Slovakia,0.4271935723233625
+Austria,Vietnam,0.8481960479668065
+Austria,Indonesia,0.851692409300277
+Austria,Oman,inf
+France,France,0.0
+France,Netherlands,0.10687901606420341
+France,South Korea,0.14169877247282284
+France,Taiwan,0.055358578998315554
+France,Canada,0.829044287199
+France,Russia,1.1652262186230173
+France,Brazil,0.7633961936079187
+France,Belgium,0.30228663464569505
+France,United Kingdom,0.3165355290186839
+France,Italy,0.43837378049684994
+France,Turkey,0.10468607338262065
+France,Japan,0.13053772305857622
+France,United States,0.6985428039644689
+France,Malaysia,0.1467466101859509
+France,Slovakia,0.354586682789694
+France,Vietnam,0.2539667176342347
+France,Indonesia,0.8508144060175867
+France,Oman,inf
+Netherlands,Netherlands,0.0
+Netherlands,South Korea,0.06192118422914092
+Netherlands,Taiwan,0.04237005722765
+Netherlands,Canada,0.6762774659854991
+Netherlands,Russia,1.4752631142644943
+Netherlands,Brazil,1.0417632664283896
+Netherlands,Belgium,0.1298734380573152
+Netherlands,United Kingdom,0.5423985567325886
+Netherlands,Italy,0.27557263425138906
+Netherlands,Turkey,0.24792519038570274
+Netherlands,Japan,0.16691019355904257
+Netherlands,United States,0.5840090333586222
+Netherlands,Malaysia,0.3045558975346092
+Netherlands,Slovakia,0.21858135641760018
+Netherlands,Vietnam,0.3596401372212062
+Netherlands,Indonesia,0.9889908849535871
+Netherlands,Oman,inf
+South Korea,South Korea,0.0
+South Korea,Taiwan,0.02695603573319807
+South Korea,Canada,0.5126190694469455
+South Korea,Russia,1.26686559573284
+South Korea,Brazil,0.8597394284649927
+South Korea,Belgium,0.25300239611829733
+South Korea,United Kingdom,0.6759916961539273
+South Korea,Italy,0.5024511750766123
+South Korea,Turkey,0.2406798477790674
+South Korea,Japan,0.07386573606706401
+South Korea,United States,0.7740652552747346
+South Korea,Malaysia,0.3363578324558264
+South Korea,Slovakia,0.0989367239592941
+South Korea,Vietnam,0.26580868118432804
+South Korea,Indonesia,1.2831786639950375
+South Korea,Oman,inf
+Taiwan,Taiwan,0.0
+Taiwan,Canada,0.5848317968128226
+Taiwan,Russia,1.1492989166053211
+Taiwan,Brazil,0.764462838903107
+Taiwan,Belgium,0.26582358545778967
+Taiwan,United Kingdom,0.4869761359046058
+Taiwan,Italy,0.47132854751136505
+Taiwan,Turkey,0.14223212595223453
+Taiwan,Japan,0.05922718425762594
+Taiwan,United States,0.7287917567169524
+Taiwan,Malaysia,0.22052619403912851
+Taiwan,Slovakia,0.18888089675422162
+Taiwan,Vietnam,0.20962109195036663
+Taiwan,Indonesia,1.066739375500927
+Taiwan,Oman,inf
+Canada,Canada,0.0
+Canada,Russia,1.4337112801554102
+Canada,Brazil,1.1781332523438663
+Canada,Belgium,0.9050112067988089
+Canada,United Kingdom,1.3751222708130029
+Canada,Italy,1.2478236201216355
+Canada,Turkey,0.877631834435244
+Canada,Japan,0.36397138841896426
+Canada,United States,1.7641950151564298
+Canada,Malaysia,1.0873154782388805
+Canada,Slovakia,0.5404280492614447
+Canada,Vietnam,0.529402733192373
+Canada,Indonesia,2.1952461115712123
+Canada,Oman,inf
+Russia,Russia,0.0
+Russia,Brazil,0.04988457072716024
+Russia,Belgium,2.6716699050708907
+Russia,United Kingdom,1.032409114997792
+Russia,Italy,2.904733503009284
+Russia,Turkey,0.5910637474638087
+Russia,Japan,0.9468681161236869
+Russia,United States,2.195378945826659
+Russia,Malaysia,0.5068303746067723
+Russia,Slovakia,1.570667803957487
+Russia,Vietnam,0.3889635558584
+Russia,Indonesia,2.0632243418425418
+Russia,Oman,inf
+Brazil,Brazil,0.0
+Brazil,Belgium,2.100114370755515
+Brazil,United Kingdom,0.7743595537315688
+Brazil,Italy,2.347906817353519
+Brazil,Turkey,0.3676913233119616
+Brazil,Japan,0.6185748014720224
+Brazil,United States,1.8718944148873273
+Brazil,Malaysia,0.33651952805740654
+Brazil,Slovakia,1.216540715590005
+Brazil,Vietnam,0.22695747535046165
+Brazil,Indonesia,1.7703742068154464
+Brazil,Oman,inf
+Belgium,Belgium,0.0
+Belgium,United Kingdom,0.6905495005068012
+Belgium,Italy,0.08382249752124885
+Belgium,Turkey,0.41982949828913363
+Belgium,Japan,0.43762449880324994
+Belgium,United States,0.35121316929163304
+Belgium,Malaysia,0.3766237104150947
+Belgium,Slovakia,0.2653342209942163
+Belgium,Vietnam,0.708137393345997
+Belgium,Indonesia,0.8913038600214525
+Belgium,Oman,inf
+United Kingdom,United Kingdom,0.0
+United Kingdom,Italy,0.7045090722881187
+United Kingdom,Turkey,0.6582853131731541
+United Kingdom,Japan,0.7580864471961295
+United Kingdom,United States,0.8606626100326136
+United Kingdom,Malaysia,0.5144260383120965
+United Kingdom,Slovakia,1.8960855853167848
+United Kingdom,Vietnam,1.023302243356499
+United Kingdom,Indonesia,0.49557856428407293
+United Kingdom,Oman,inf
+Italy,Italy,0.0
+Italy,Turkey,0.5610329448942609
+Italy,Japan,0.727384495802632
+Italy,United States,0.44897671107028275
+Italy,Malaysia,0.4746037879909126
+Italy,Slovakia,0.728455225749363
+Italy,Vietnam,0.9600306896674083
+Italy,Indonesia,0.518416201198856
+Italy,Oman,inf
+Turkey,Turkey,0.0
+Turkey,Japan,0.15923991676591084
+Turkey,United States,0.8585332918097968
+Turkey,Malaysia,0.05817488460178285
+Turkey,Slovakia,0.38461700434867074
+Turkey,Vietnam,0.09624740578205612
+Turkey,Indonesia,1.0309763850633171
+Turkey,Oman,inf
+Japan,Japan,0.0
+Japan,United States,0.9761786442384509
+Japan,Malaysia,0.25575576143255707
+Japan,Slovakia,0.26325604562546917
+Japan,Vietnam,0.12826278153463666
+Japan,Indonesia,1.2918017473656473
+Japan,Oman,inf
+United States,United States,0.0
+United States,Malaysia,0.5748732656217108
+United States,Slovakia,0.7852882293810647
+United States,Vietnam,1.1317875684143404
+United States,Indonesia,1.2178640892124624
+United States,Oman,inf
+Malaysia,Malaysia,0.0
+Malaysia,Slovakia,0.5146045764275691
+Malaysia,Vietnam,0.1918536394747103
+Malaysia,Indonesia,0.900819339616749
+Malaysia,Oman,inf
+Slovakia,Slovakia,0.0
+Slovakia,Vietnam,0.3952228040970593
+Slovakia,Indonesia,1.2577877509059265
+Slovakia,Oman,inf
+Vietnam,Vietnam,0.0
+Vietnam,Indonesia,1.3336048844820567
+Vietnam,Oman,inf
+Indonesia,Indonesia,0.0
+Indonesia,Oman,inf
+Oman,Oman,0.0
